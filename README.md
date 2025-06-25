@@ -45,33 +45,29 @@ This project is an end-to-end **Handwritten Text Recognition (HTR)** application
 6. **Run the app**
     ```bash
     streamlit run app.py
-   
-📂 Project Structure
+    
+---
 
+📂 Project Structure<br>
 .
-├── app.py                # Main Streamlit application
+├── app.py                # Main Streamlit application<br>
+├── word_model.pt         # YOLO model for word segmentation<br>
+├── char_model.pt         # YOLO model for character recognition<br>
+├── requirements.txt      # Python dependencies<br>
+└── README.md             # Project documentation<br>
 
-├── word_model.pt         # YOLO model for word segmentation
+---
 
-├── char_model.pt         # YOLO model for character recognition
+📌 Use Cases<br>
+Digitizing handwritten notes or documents<br>
+Educational tools for handwriting transcription<br>
+Pre-processing step for NLP on handwritten datasets<br>
+OCR enhancement with linguistic accuracy<br>
 
-├── requirements.txt      # Python dependencies
+---
 
-└── README.md             # Project documentation
-
-📌 Use Cases
-Digitizing handwritten notes or documents
-
-Educational tools for handwriting transcription
-
-Pre-processing step for NLP on handwritten datasets
-
-OCR enhancement with linguistic accuracy
-
-🙋‍♀️ Author
-
+🙋‍♀️ Author<br>
 Juhi Sharma
 
-📄 License
-
+📄 License<br>
 This project is licensed under the MIT License.
