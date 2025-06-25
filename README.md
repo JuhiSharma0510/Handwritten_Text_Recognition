@@ -49,7 +49,7 @@ This project is an end-to-end **Handwritten Text Recognition (HTR)** application
 ---
 
 📂 Project Structure<br>
-.
+.<br>
 ├── app.py                # Main Streamlit application<br>
 ├── word_model.pt         # YOLO model for word segmentation<br>
 ├── char_model.pt         # YOLO model for character recognition<br>
@@ -59,10 +59,10 @@ This project is an end-to-end **Handwritten Text Recognition (HTR)** application
 ---
 
 📌 Use Cases<br>
-Digitizing handwritten notes or documents<br>
-Educational tools for handwriting transcription<br>
-Pre-processing step for NLP on handwritten datasets<br>
-OCR enhancement with linguistic accuracy<br>
+-Digitizing handwritten notes or documents<br>
+-Educational tools for handwriting transcription<br>
+-Pre-processing step for NLP on handwritten datasets<br>
+-OCR enhancement with linguistic accuracy<br>
 
 ---
 
