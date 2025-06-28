@@ -1,7 +1,7 @@
 torch>=2.0.0
 torchvision
 numpy
-opencv-python
+opencv-python-headless
 Pillow
 pyyaml
 matplotlib
