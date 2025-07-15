@@ -1,4 +1,5 @@
 # 📝 Handwritten Text Recognition with OCR and Grammar Correction
+**View Project** : https://handwritten-text-recognition-app.streamlit.app/
 
 This project is an end-to-end **Handwritten Text Recognition (HTR)** application built with **Streamlit**. It uses **YOLO-based object detection** models for word and character recognition, combined with **custom rule-based grammar correction** and **intelligent spell-checking**. The app allows users to upload images containing handwritten content and converts them into accurately transcribed and corrected digital text.
 
